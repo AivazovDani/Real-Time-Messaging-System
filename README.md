@@ -1,5 +1,5 @@
 # Real-Time-Messaging-System
-A real-time chat application backend built with FastAPI, WebSockets, and SQLAlchemy. Users can register, login, send messages, and chat in real-time with message history and active user tracking.
+
 
 ---
 ## How It Works
